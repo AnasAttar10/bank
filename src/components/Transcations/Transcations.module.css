@@ -1,0 +1,18 @@
+.transcations{
+    width: 80%;
+    margin: 50px auto;
+}
+.transcationshead{
+    width: 80%;
+    margin: auto;
+    border: 3px solid gray;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    margin-bottom: -50px;
+    margin-top: 50px;
+}
+.phead{
+    width: 100%;
+    font-weight: bold;
+}

@@ -1,0 +1,16 @@
+.nav{
+    display: flex;
+    padding: 15px;
+    background-color: black;
+}
+.nav .link{
+    padding: 10px;
+    margin: 0 5px;
+    text-decoration: none;
+}
+.link{
+    color: orange;
+}
+.balance{
+    color: white;
+}

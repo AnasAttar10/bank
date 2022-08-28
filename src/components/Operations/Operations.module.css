@@ -1,0 +1,43 @@
+#addNewTranscation{
+    width: 80%;
+    margin: 40px auto;
+    border: 1px solid orange;
+    padding: 10px;
+}
+
+#addNewTranscation > div > label {
+    display: block;
+    padding: 10px;
+    text-align: left;
+}
+
+#addNewTranscation > div > input {
+    display: block;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 5px;
+    margin: 0;
+}
+
+.btnsContainer {
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 20px;
+}
+.deposit{
+    display: block;
+    padding: 15px;
+    color: yellow;
+    background-color: black;
+    cursor: pointer;
+
+}
+
+.withdraw{
+    padding: 15px;
+    display: block;
+    color: red;
+    cursor: pointer;
+}
